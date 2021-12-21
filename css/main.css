@@ -1,0 +1,17 @@
+body{
+    /*margin: 0vh 60vh 0vh 60vh;*/
+    background: url(../pic/1621592454_12-phonoteka_org-p-igrovoi-fon-bravl-stars-12.jpg);
+}
+ul li{
+    list-style-type: none;
+}
+.icon{
+	width: 70px;
+	height: 70px;
+    margin-right: 10px;
+    }
+.me{
+    display: flex;
+    flex-direction: row;
+    margin: 0vh 60vh 0vh 60vh;
+}
