@@ -1,6 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 body{
-    /*margin: 0vh 60vh 0vh 60vh;*/
-    background: url(../pic/1621592454_12-phonoteka_org-p-igrovoi-fon-bravl-stars-12.jpg);
+    background: url(../pic/anime.jpg);
 }
 ul li{
     list-style-type: none;
@@ -15,3 +15,28 @@ ul li{
     flex-direction: row;
     margin: 0vh 60vh 0vh 60vh;
 }
+img{
+    border-radius: 100px;
+}
+h1{
+    font-weight: 900;
+}
+p{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+}
+.button {
+    color: #fff; 
+    text-decoration: none; 
+    user-select: none; 
+    background: rgb(212,75,56);
+    padding: .7em 1.5em; 
+    outline: none; 
+  } 
+  .button:hover{ 
+      background: rgb(232,95,76); 
+    } 
+  .button:active { 
+      background: rgb(152,15,0); 
+    } 
